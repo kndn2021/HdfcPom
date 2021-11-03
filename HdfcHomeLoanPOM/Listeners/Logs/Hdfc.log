@@ -1,0 +1,11 @@
+2021-11-03 17:42:44 INFO  ApplicantsTest:44 - Selected residing state is : MAHARASHTRA
+2021-11-03 17:42:46 INFO  ApplicantsTest:49 - Searched residing city is : MUMBAI
+2021-11-03 17:42:46 INFO  ApplicantsTest:53 - Entered age of applicant is : 35
+2021-11-03 17:42:46 INFO  ApplicantsTest:56 - Occupation of employee is : EMPLOYED
+2021-11-03 17:42:46 INFO  ApplicantsTest:59 - Income of applicant is : 55000
+2021-11-03 17:42:47 INFO  ApplicantsTest:62 - Retirement age of applicant is : 60
+2021-11-03 17:42:47 INFO  ApplicantsTest:65 - Monthly EMI's of applicant is : 26
+2021-11-03 17:42:47 INFO  ApplicantsTest:68 - Applicant Email ID is : kndn@gmail.com
+2021-11-03 17:42:47 INFO  ApplicantsTest:71 - Mobile number of applicant is : 7219577480
+2021-11-03 17:42:48 INFO  ApplicantsTest:75 - Agree box checked successfully
+2021-11-03 17:42:48 INFO  ApplicantsTest:78 - Clicked on Applicants continue button

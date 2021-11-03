@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27353" started-at="2021-11-02T22:01:18 IST" finished-at="2021-11-02T22:01:45 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27353" started-at="2021-11-02T22:01:18 IST" finished-at="2021-11-02T22:01:45 IST">
+      <class name="com.hdfcTest.ApplicantsTest">
+        <test-method status="PASS" signature="applicantsSetup()[pri:0, instance:com.hdfcTest.ApplicantsTest@5f282abb]" name="applicantsSetup" is-config="true" duration-ms="22141" started-at="2021-11-02T22:01:18 IST" finished-at="2021-11-02T22:01:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicantsSetup -->
+        <test-method status="PASS" signature="appTest()[pri:0, instance:com.hdfcTest.ApplicantsTest@5f282abb]" name="appTest" duration-ms="4172" started-at="2021-11-02T22:01:40 IST" finished-at="2021-11-02T22:01:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hdfcTest.ApplicantsTest@5f282abb]" name="tearDown" is-config="true" duration-ms="980" started-at="2021-11-02T22:01:44 IST" finished-at="2021-11-02T22:01:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hdfcTest.ApplicantsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
