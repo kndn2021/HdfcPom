@@ -72,8 +72,13 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M5</version>
 				<configuration>
+					<forkCount>2</forkCount>
+					<reuseForks>false</reuseForks>
+					<reportsDirectory>target/surefire-reports-${surefire.forkNumber}</reportsDirectory>
 					<suiteXmlFiles>
-						<suiteXmlFile>Hdfctestng.xml</suiteXmlFile>
+						<suiteXmlFiles>
+							<suiteXmlFile>Hdfctestng.xml</suiteXmlFile>
+						</suiteXmlFiles>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

@@ -1,0 +1,48 @@
+2021-12-08 20:26:11 INFO  BasicInformationTest:43 - Selected Loan Type is : HOU
+2021-12-08 20:26:11 INFO  BasicInformationTest:46 - Property is shorted
+2021-12-08 20:26:12 INFO  BasicInformationTest:49 - Selected property state is : MAHARASHTRA
+2021-12-08 20:26:14 INFO  BasicInformationTest:55 - Searched property city is : Nashik
+2021-12-08 20:26:15 INFO  BasicInformationTest:58 - The entered property cost is : 4500000
+2021-12-08 20:26:15 INFO  BasicInformationTest:61 - Applicant Name is : Shrikant agrawal
+2021-12-08 20:26:15 INFO  BasicInformationTest:65 - Clicked on Basic information continue button
+2021-12-08 20:26:15 INFO  OTPVerificationTest:38 - Chrome browser is found and initiated successfully..
+2021-12-08 20:26:15 INFO  ApplicantsTest:44 - Selected residing state is : MAHARASHTRA
+2021-12-08 20:26:17 INFO  ApplicantsTest:49 - Searched residing city is : MUMBAI
+2021-12-08 20:26:18 INFO  ApplicantsTest:53 - Entered age of applicant is : 35
+2021-12-08 20:26:18 INFO  ApplicantsTest:56 - Occupation of employee is : EMPLOYED
+2021-12-08 20:26:18 INFO  ApplicantsTest:59 - Income of applicant is : 55000
+2021-12-08 20:26:18 INFO  ApplicantsTest:62 - Retirement age of applicant is : 60
+2021-12-08 20:26:18 INFO  ApplicantsTest:65 - Monthly EMI's of applicant is : 26
+2021-12-08 20:26:18 INFO  ApplicantsTest:68 - Applicant Email ID is : kndn@gmail.com
+2021-12-08 20:26:19 INFO  ApplicantsTest:71 - Mobile number of applicant is : 7219577480
+2021-12-08 20:26:19 INFO  ApplicantsTest:75 - Agree box checked successfully
+2021-12-08 20:26:19 INFO  ApplicantsTest:78 - Clicked on Applicants continue button
+2021-12-08 20:26:22 INFO  OTPVerificationTest:55 - Clicked on Resend OTP button
+2021-12-08 20:26:22 WARN  OTPVerificationTest:60 - Please do check the entered OTP carefully
+2021-12-08 20:26:24 INFO  OTPVerificationTest:66 - OTP entered successfully
+2021-12-08 20:26:24 INFO  OTPVerificationTest:70 - Clicked on Verify Button
+2021-12-08 20:26:26 INFO  OTPVerificationTest:78 - Chrome browser is closed
+2021-12-08 21:26:38 INFO  BasicInformationTest:43 - Selected Loan Type is : HOU
+2021-12-08 21:26:39 INFO  BasicInformationTest:46 - Property is shorted
+2021-12-08 21:26:39 INFO  BasicInformationTest:49 - Selected property state is : MAHARASHTRA
+2021-12-08 21:26:42 INFO  BasicInformationTest:55 - Searched property city is : Nashik
+2021-12-08 21:26:43 INFO  BasicInformationTest:58 - The entered property cost is : 4500000
+2021-12-08 21:26:43 INFO  BasicInformationTest:61 - Applicant Name is : Shrikant agrawal
+2021-12-08 21:26:43 INFO  BasicInformationTest:65 - Clicked on Basic information continue button
+2021-12-08 21:26:43 INFO  OTPVerificationTest:38 - Chrome browser is found and initiated successfully..
+2021-12-08 21:26:43 INFO  ApplicantsTest:44 - Selected residing state is : MAHARASHTRA
+2021-12-08 21:26:45 INFO  ApplicantsTest:49 - Searched residing city is : MUMBAI
+2021-12-08 21:26:46 INFO  ApplicantsTest:53 - Entered age of applicant is : 35
+2021-12-08 21:26:46 INFO  ApplicantsTest:56 - Occupation of employee is : EMPLOYED
+2021-12-08 21:26:46 INFO  ApplicantsTest:59 - Income of applicant is : 55000
+2021-12-08 21:26:46 INFO  ApplicantsTest:62 - Retirement age of applicant is : 60
+2021-12-08 21:26:46 INFO  ApplicantsTest:65 - Monthly EMI's of applicant is : 26
+2021-12-08 21:26:46 INFO  ApplicantsTest:68 - Applicant Email ID is : kndn@gmail.com
+2021-12-08 21:26:46 INFO  ApplicantsTest:71 - Mobile number of applicant is : 7219577480
+2021-12-08 21:26:47 INFO  ApplicantsTest:75 - Agree box checked successfully
+2021-12-08 21:26:47 INFO  ApplicantsTest:78 - Clicked on Applicants continue button
+2021-12-08 21:26:51 INFO  OTPVerificationTest:55 - Clicked on Resend OTP button
+2021-12-08 21:26:51 WARN  OTPVerificationTest:60 - Please do check the entered OTP carefully
+2021-12-08 21:26:54 INFO  OTPVerificationTest:66 - OTP entered successfully
+2021-12-08 21:26:54 INFO  OTPVerificationTest:70 - Clicked on Verify Button
+2021-12-08 21:26:55 INFO  OTPVerificationTest:78 - Chrome browser is closed
