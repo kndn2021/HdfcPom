@@ -1,0 +1,98 @@
+2021-12-10 22:09:14 INFO  BasicInformationTest:43 - Selected Loan Type is : HOU
+2021-12-10 22:09:15 INFO  BasicInformationTest:46 - Property is shorted
+2021-12-10 22:09:15 INFO  BasicInformationTest:49 - Selected property state is : MAHARASHTRA
+2021-12-10 22:09:20 INFO  BasicInformationTest:55 - Searched property city is : Nashik
+2021-12-10 22:09:21 INFO  BasicInformationTest:58 - The entered property cost is : 4500000
+2021-12-10 22:09:21 INFO  BasicInformationTest:61 - Applicant Name is : Shrikant agrawal
+2021-12-10 22:09:21 INFO  BasicInformationTest:65 - Clicked on Basic information continue button
+2021-12-10 22:09:21 INFO  ApplicantsTest:44 - Selected residing state is : MAHARASHTRA
+2021-12-10 22:09:24 INFO  ApplicantsTest:49 - Searched residing city is : MUMBAI
+2021-12-10 22:09:24 INFO  ApplicantsTest:53 - Entered age of applicant is : 35
+2021-12-10 22:09:24 INFO  ApplicantsTest:56 - Occupation of employee is : EMPLOYED
+2021-12-10 22:09:25 INFO  ApplicantsTest:59 - Income of applicant is : 55000
+2021-12-10 22:09:25 INFO  ApplicantsTest:62 - Retirement age of applicant is : 60
+2021-12-10 22:09:25 INFO  ApplicantsTest:65 - Monthly EMI's of applicant is : 26
+2021-12-10 22:09:25 INFO  ApplicantsTest:68 - Applicant Email ID is : kndn@gmail.com
+2021-12-10 22:09:25 INFO  ApplicantsTest:71 - Mobile number of applicant is : 7219577480
+2021-12-10 22:09:25 INFO  ApplicantsTest:75 - Agree box checked successfully
+2021-12-10 22:09:26 INFO  ApplicantsTest:78 - Clicked on Applicants continue button
+2021-12-10 22:09:48 INFO  BasicInformationTest:43 - Selected Loan Type is : HOU
+2021-12-10 22:09:49 INFO  BasicInformationTest:46 - Property is shorted
+2021-12-10 22:09:50 INFO  BasicInformationTest:49 - Selected property state is : MAHARASHTRA
+2021-12-10 22:09:52 INFO  BasicInformationTest:55 - Searched property city is : Nashik
+2021-12-10 22:09:53 INFO  BasicInformationTest:58 - The entered property cost is : 4500000
+2021-12-10 22:09:53 INFO  BasicInformationTest:61 - Applicant Name is : Shrikant agrawal
+2021-12-10 22:09:53 INFO  BasicInformationTest:65 - Clicked on Basic information continue button
+2021-12-10 22:10:11 INFO  BasicInformationTest:43 - Selected Loan Type is : HOU
+2021-12-10 22:10:12 INFO  BasicInformationTest:46 - Property is shorted
+2021-12-10 22:10:12 INFO  BasicInformationTest:49 - Selected property state is : MAHARASHTRA
+2021-12-10 22:10:14 INFO  BasicInformationTest:55 - Searched property city is : Nashik
+2021-12-10 22:10:15 INFO  BasicInformationTest:58 - The entered property cost is : 4500000
+2021-12-10 22:10:15 INFO  BasicInformationTest:61 - Applicant Name is : Shrikant agrawal
+2021-12-10 22:10:15 INFO  BasicInformationTest:65 - Clicked on Basic information continue button
+2021-12-10 22:10:15 INFO  OTPVerificationTest:38 - Chrome browser is found and initiated successfully..
+2021-12-10 22:10:15 INFO  ApplicantsTest:44 - Selected residing state is : MAHARASHTRA
+2021-12-10 22:10:18 INFO  ApplicantsTest:49 - Searched residing city is : MUMBAI
+2021-12-10 22:10:18 INFO  ApplicantsTest:53 - Entered age of applicant is : 35
+2021-12-10 22:10:18 INFO  ApplicantsTest:56 - Occupation of employee is : EMPLOYED
+2021-12-10 22:10:18 INFO  ApplicantsTest:59 - Income of applicant is : 55000
+2021-12-10 22:10:18 INFO  ApplicantsTest:62 - Retirement age of applicant is : 60
+2021-12-10 22:10:19 INFO  ApplicantsTest:65 - Monthly EMI's of applicant is : 26
+2021-12-10 22:10:19 INFO  ApplicantsTest:68 - Applicant Email ID is : kndn@gmail.com
+2021-12-10 22:10:19 INFO  ApplicantsTest:71 - Mobile number of applicant is : 7219577480
+2021-12-10 22:10:20 INFO  ApplicantsTest:75 - Agree box checked successfully
+2021-12-10 22:10:20 INFO  ApplicantsTest:78 - Clicked on Applicants continue button
+2021-12-10 22:10:24 INFO  OTPVerificationTest:55 - Clicked on Resend OTP button
+2021-12-10 22:10:24 WARN  OTPVerificationTest:60 - Please do check the entered OTP carefully
+2021-12-10 22:10:26 INFO  OTPVerificationTest:66 - OTP entered successfully
+2021-12-10 22:10:26 INFO  OTPVerificationTest:70 - Clicked on Verify Button
+2021-12-10 22:10:28 INFO  OTPVerificationTest:78 - Chrome browser is closed
+2021-12-12 14:41:34 INFO  BasicInformationTest:43 - Selected Loan Type is : HOU
+2021-12-12 14:41:35 INFO  BasicInformationTest:46 - Property is shorted
+2021-12-12 14:41:35 INFO  BasicInformationTest:49 - Selected property state is : MAHARASHTRA
+2021-12-12 14:41:38 INFO  BasicInformationTest:55 - Searched property city is : Nashik
+2021-12-12 14:41:38 INFO  BasicInformationTest:58 - The entered property cost is : 4500000
+2021-12-12 14:41:39 INFO  BasicInformationTest:61 - Applicant Name is : Shrikant agrawal
+2021-12-12 14:41:39 INFO  BasicInformationTest:65 - Clicked on Basic information continue button
+2021-12-12 14:41:39 INFO  ApplicantsTest:44 - Selected residing state is : MAHARASHTRA
+2021-12-12 14:41:42 INFO  ApplicantsTest:49 - Searched residing city is : MUMBAI
+2021-12-12 14:41:42 INFO  ApplicantsTest:53 - Entered age of applicant is : 35
+2021-12-12 14:41:42 INFO  ApplicantsTest:56 - Occupation of employee is : EMPLOYED
+2021-12-12 14:41:42 INFO  ApplicantsTest:59 - Income of applicant is : 55000
+2021-12-12 14:41:42 INFO  ApplicantsTest:62 - Retirement age of applicant is : 60
+2021-12-12 14:41:43 INFO  ApplicantsTest:65 - Monthly EMI's of applicant is : 26
+2021-12-12 14:41:43 INFO  ApplicantsTest:68 - Applicant Email ID is : kndn@gmail.com
+2021-12-12 14:41:43 INFO  ApplicantsTest:71 - Mobile number of applicant is : 7219577480
+2021-12-12 14:41:43 INFO  ApplicantsTest:75 - Agree box checked successfully
+2021-12-12 14:41:43 INFO  ApplicantsTest:78 - Clicked on Applicants continue button
+2021-12-12 14:42:02 INFO  BasicInformationTest:43 - Selected Loan Type is : HOU
+2021-12-12 14:42:02 INFO  BasicInformationTest:46 - Property is shorted
+2021-12-12 14:42:03 INFO  BasicInformationTest:49 - Selected property state is : MAHARASHTRA
+2021-12-12 14:42:05 INFO  BasicInformationTest:55 - Searched property city is : Nashik
+2021-12-12 14:42:05 INFO  BasicInformationTest:58 - The entered property cost is : 4500000
+2021-12-12 14:42:05 INFO  BasicInformationTest:61 - Applicant Name is : Shrikant agrawal
+2021-12-12 14:42:06 INFO  BasicInformationTest:65 - Clicked on Basic information continue button
+2021-12-12 14:42:15 INFO  BasicInformationTest:43 - Selected Loan Type is : HOU
+2021-12-12 14:42:16 INFO  BasicInformationTest:46 - Property is shorted
+2021-12-12 14:42:16 INFO  BasicInformationTest:49 - Selected property state is : MAHARASHTRA
+2021-12-12 14:42:18 INFO  BasicInformationTest:55 - Searched property city is : Nashik
+2021-12-12 14:42:19 INFO  BasicInformationTest:58 - The entered property cost is : 4500000
+2021-12-12 14:42:19 INFO  BasicInformationTest:61 - Applicant Name is : Shrikant agrawal
+2021-12-12 14:42:19 INFO  BasicInformationTest:65 - Clicked on Basic information continue button
+2021-12-12 14:42:19 INFO  OTPVerificationTest:38 - Chrome browser is found and initiated successfully..
+2021-12-12 14:42:19 INFO  ApplicantsTest:44 - Selected residing state is : MAHARASHTRA
+2021-12-12 14:42:22 INFO  ApplicantsTest:49 - Searched residing city is : MUMBAI
+2021-12-12 14:42:22 INFO  ApplicantsTest:53 - Entered age of applicant is : 35
+2021-12-12 14:42:22 INFO  ApplicantsTest:56 - Occupation of employee is : EMPLOYED
+2021-12-12 14:42:22 INFO  ApplicantsTest:59 - Income of applicant is : 55000
+2021-12-12 14:42:22 INFO  ApplicantsTest:62 - Retirement age of applicant is : 60
+2021-12-12 14:42:22 INFO  ApplicantsTest:65 - Monthly EMI's of applicant is : 26
+2021-12-12 14:42:23 INFO  ApplicantsTest:68 - Applicant Email ID is : kndn@gmail.com
+2021-12-12 14:42:23 INFO  ApplicantsTest:71 - Mobile number of applicant is : 7219577480
+2021-12-12 14:42:23 INFO  ApplicantsTest:75 - Agree box checked successfully
+2021-12-12 14:42:23 INFO  ApplicantsTest:78 - Clicked on Applicants continue button
+2021-12-12 14:42:26 INFO  OTPVerificationTest:55 - Clicked on Resend OTP button
+2021-12-12 14:42:26 WARN  OTPVerificationTest:60 - Please do check the entered OTP carefully
+2021-12-12 14:42:28 INFO  OTPVerificationTest:66 - OTP entered successfully
+2021-12-12 14:42:28 INFO  OTPVerificationTest:70 - Clicked on Verify Button
+2021-12-12 14:42:30 INFO  OTPVerificationTest:78 - Chrome browser is closed

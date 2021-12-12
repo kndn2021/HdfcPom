@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="112351" started-at="2021-12-10T16:38:36Z" finished-at="2021-12-10T16:40:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="112351" started-at="2021-12-10T16:38:36Z" finished-at="2021-12-10T16:40:28Z">
+      <class name="com.hdfcTest.BasicInformationTest">
+        <test-method status="PASS" signature="basicinfoSetup()[pri:0, instance:com.hdfcTest.BasicInformationTest@13c78c0b]" name="basicinfoSetup" is-config="true" duration-ms="18359" started-at="2021-12-10T22:09:28Z" finished-at="2021-12-10T22:09:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicinfoSetup -->
+        <test-method status="PASS" signature="basicInfo()[pri:0, instance:com.hdfcTest.BasicInformationTest@13c78c0b]" name="basicInfo" duration-ms="7241" started-at="2021-12-10T22:09:46Z" finished-at="2021-12-10T22:09:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hdfcTest.BasicInformationTest@13c78c0b]" name="tearDown" is-config="true" duration-ms="404" started-at="2021-12-10T22:09:53Z" finished-at="2021-12-10T22:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hdfcTest.BasicInformationTest -->
+      <class name="com.hdfcTest.ApplicantsTest">
+        <test-method status="PASS" signature="applicantsSetup()[pri:0, instance:com.hdfcTest.ApplicantsTest@2cb4c3ab]" name="applicantsSetup" is-config="true" duration-ms="45516" started-at="2021-12-10T22:08:36Z" finished-at="2021-12-10T22:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicantsSetup -->
+        <test-method status="PASS" signature="appTest()[pri:0, instance:com.hdfcTest.ApplicantsTest@2cb4c3ab]" name="appTest" duration-ms="4664" started-at="2021-12-10T22:09:21Z" finished-at="2021-12-10T22:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hdfcTest.ApplicantsTest@2cb4c3ab]" name="tearDown" is-config="true" duration-ms="1817" started-at="2021-12-10T22:09:26Z" finished-at="2021-12-10T22:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hdfcTest.ApplicantsTest -->
+      <class name="com.hdfcTest.OTPVerificationTest">
+        <test-method status="PASS" signature="otpSetup()[pri:0, instance:com.hdfcTest.OTPVerificationTest@12843fce]" name="otpSetup" is-config="true" duration-ms="26208" started-at="2021-12-10T22:09:54Z" finished-at="2021-12-10T22:10:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- otpSetup -->
+        <test-method status="PASS" signature="otpTest()[pri:0, instance:com.hdfcTest.OTPVerificationTest@12843fce]" name="otpTest" duration-ms="6631" started-at="2021-12-10T22:10:20Z" finished-at="2021-12-10T22:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- otpTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hdfcTest.OTPVerificationTest@12843fce]" name="tearDown" is-config="true" duration-ms="1482" started-at="2021-12-10T22:10:26Z" finished-at="2021-12-10T22:10:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hdfcTest.OTPVerificationTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
