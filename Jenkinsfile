@@ -11,7 +11,7 @@ pipeline {
             steps {
                 // Get some code from a GitHub repository
                 git 'https://github.com/kndn2021/HdfcPom.git'
-                bat "mav clean install"
+                bat "mvn clean install"
             }
 
             post {
